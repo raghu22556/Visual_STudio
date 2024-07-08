@@ -1,1 +1,2 @@
 this s the sample code 
+som commands added
